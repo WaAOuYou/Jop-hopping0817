@@ -1,0 +1,8 @@
+{
+  // 适配 VS Code 实验性「混合 Markdown 编辑器」(WYSIWYG,需 VS Code ≥ 1.131)
+  // 仅对本目录生效;升级 VS Code 后,本目录所有 .md 将默认用混合编辑器打开。
+  // 若某文件想用回普通编辑,用编辑器右上角 ... → Reopen Editor With... 切换。
+  "workbench.editorAssociations": {
+    "*.md": "vscode.markdown.editor"
+  }
+}
