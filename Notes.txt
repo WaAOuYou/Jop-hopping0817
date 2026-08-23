@@ -6,3 +6,4 @@ Git常见命令：
 5. push
 6. cherry-pick
 7. checkout
+8. restore
