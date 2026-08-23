@@ -11,3 +11,4 @@ Git常见命令：
 10. restore
 11. prune
 12.lfs
+13. log
