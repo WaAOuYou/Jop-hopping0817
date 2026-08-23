@@ -7,3 +7,4 @@ Git常见命令：
 6. cherry-pick
 7. checkout
 8. restore
+9. notes
