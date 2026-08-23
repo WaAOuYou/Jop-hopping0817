@@ -7,3 +7,5 @@ Git常见命令：
 6. cherry-pick
 7. rebase
 8. reset
+9. checkout
+10. restore
