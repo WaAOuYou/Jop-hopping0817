@@ -10,3 +10,4 @@ Git常见命令：
 9. checkout
 10. restore
 11. prune
+12. log
