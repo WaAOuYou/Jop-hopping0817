@@ -4,3 +4,4 @@ Git常见命令：
 3. megre
 4. pull
 5. push
+6. cherry-pick
