@@ -1,0 +1,8 @@
+Git常见命令：
+1. push
+2. fetch
+3. megre
+4. pull
+5. push
+6. cherry-pick
+7. rebase
